@@ -1,0 +1,6 @@
+streamlit
+pillow
+pdfrw
+requests
+openai
+python-dotenv
